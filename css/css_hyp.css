@@ -92,10 +92,11 @@ form {
 
 
 div#footer {
-  color: #FFF;
-  margin-top: 80px;
-  font-size: 0.2em;
-  text-align: center;
+	font-size: 0.2em;
+	padding:0.5em; 
+	color: #FFF; 
+	text-align: right;
+			
 }
 
 
